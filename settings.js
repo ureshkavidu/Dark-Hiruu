@@ -19,31 +19,31 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94704101989']
-global.premium = ['94704101989']
-global.ownernomer = '94704101989'
-global.ownername = '❤️S_I_H_I_L_E_L❤️'
-global.botname = '❤️𝙷𝙸𝚁𝚄𝚄_𝚀𝚄𝙴𝙴𝙽_𝙱𝙾𝚃❤️'
-global.footer = '©Sihilel.'
+global.owner = ['94725083941']
+global.premium = ['94725083941']
+global.ownernomer = '94725083941'
+global.ownername = '❤️URESH❤️'
+global.botname = '🚫'
+global.footer = '🚫'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/Dark-Sihilel/Dark-Hiruu'
 global.myweb = 'https://sites.google.com/view/hiruu-queen-bot/home'
-global.packname = '❤️HIRUU-QUEEN❤️'
-global.author = '❤️S_I_H_I_L_E_L❤️'
+global.packname = '🚫'
+global.author = '🚫'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: '♥️S+H♥️ ඇඩ්මින්ලට විතරයි මේක පුලුවන් ළමයෝ 🌝',
-    botAdmin: '♥️S+H♥️ ඇඩ්මින් දියන්කෝ මුලින් 😒',
-    owner: '♥️S+H♥ Owner ට විතරයි ළමයෝ ඕක පුලුවන් 🙏 ',
-    group: '♥️S+H♥️ group වල විතරයි ඕක😒',
-    private: '♥️S+H♥️ inbox විතරයි පුලුවන්🌝',
-    bot: '♥️S+H♥️ මේක මට විතරයි පුලුවන්😌👍 ඔයා පාඩුවේ ඉන්න 😒',
-    wait: '♥️S+H♥️ චුට්ටක් ඉන්න බබා 🌸🙏',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
+    admin: '⃜',
+    botAdmin: '⃜',
+    owner: '⃜',
+    group: '⃜',
+    private: '⃜',
+    bot: '⃜',
+    wait: '⃜',
+    error: 'Error! Maybe Api Key Is Expired!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
